@@ -1,5 +1,5 @@
 # StellarConquest Issue Tracking
-![](./images.png?raw=true "Banner Image")
+![](./images/banner.png?raw=true "Banner Image")
 
 # What Is An Issue?
 
