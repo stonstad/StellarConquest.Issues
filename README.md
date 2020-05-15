@@ -1,5 +1,5 @@
 # StellarConquest Issue Tracking
-![Stellar Conquest Banner](https://stellarconquest.blob.core.windows.net/github/issues.png)
+![](./images.png?raw=true "Banner Image")
 
 # What Is An Issue?
 
